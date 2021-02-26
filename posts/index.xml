@@ -5,11 +5,7 @@
     <link>https://mikangogo.github.io/posts/</link>
     <description>Recent content in Posts on MikanGoGo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Jan 2020 14:59:02 +0900</lastBuildDate>
-    
-	<atom:link href="https://mikangogo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Jan 2020 14:59:02 +0900</lastBuildDate><atom:link href="https://mikangogo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>README.1st</title>
       <link>https://mikangogo.github.io/posts/informations/</link>
@@ -35,15 +31,6 @@
       
       <guid>https://mikangogo.github.io/posts/driving/</guid>
       <description>&lt;p&gt;JR線車両パックで公開している車両の運転操作などの説明。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tools and Utilities</title>
-      <link>https://mikangogo.github.io/posts/tools/</link>
-      <pubDate>Sun, 26 Jan 2020 13:18:19 +0900</pubDate>
-      
-      <guid>https://mikangogo.github.io/posts/tools/</guid>
-      <description>&lt;p&gt;アドオン制作ツールのダウンロードと紹介など。&lt;/p&gt;</description>
     </item>
     
     <item>
